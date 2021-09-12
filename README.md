@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IvanGeorgievich
+- 👀 I’m interested in Python
+- 🌱 i am learning Python
